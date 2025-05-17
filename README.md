@@ -12,8 +12,7 @@
 - 📫 discord: @monti_uy
 - 📫 gmail: developmonti@gmail.com
 
-<!--> English Readme:
-<!-->
+
 👋 Hi! I’m Monti
 
 - 💻 Currently a Junior Frontend Dev in training, eager to learn and explore.
