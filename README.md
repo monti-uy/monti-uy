@@ -1,4 +1,3 @@
-<!--> Readme en español (natural) <!-->
 👋 ¡Hola! Soy monti
 
 - 💻 Actualmente soy Junior dev frontend en formación con muchas ganas de aprender y descubrir.
@@ -13,7 +12,8 @@
 - 📫 discord: @monti_uy
 - 📫 gmail: developmonti@gmail.com
 
-<!--> English Readme <!-->
+<!--> English Readme:
+<!-->
 👋 Hi! I’m Monti
 
 - 💻 Currently a Junior Frontend Dev in training, eager to learn and explore.
