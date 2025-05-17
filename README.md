@@ -12,6 +12,7 @@
 - 📫 discord: @monti_uy
 - 📫 gmail: developmonti@gmail.com
 
+---------------------------------
 
 👋 Hi! I’m Monti
 
